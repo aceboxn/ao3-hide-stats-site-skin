@@ -1,0 +1,23 @@
+.kudos {
+  display: none !important;
+}
+
+.hits {
+  display: none !important;
+}
+
+.comments {
+  display: none !important;
+}
+
+.bookmarks {
+  display: none !important;
+}
+
+#show_comments_link {
+  display: none !important;
+}
+
+a[href="/users/yourusername/inbox"] {
+  display: none !important;
+}
